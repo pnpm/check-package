@@ -1,5 +1,7 @@
 # @pnpm/check-package
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pnpm/check-package.svg)](https://greenkeeper.io/)
+
 > Checks the integrity of a package
 
 <!--@shields('npm', 'travis')-->
