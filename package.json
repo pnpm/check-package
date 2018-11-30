@@ -13,7 +13,8 @@
   "scripts": {
     "lint": "tslint -c tslint.json --project .",
     "tsc": "rimraf lib && tsc",
-    "test": "npm run lint && preview && ts-node test && mos t",
+    "test:readme": "mos t",
+    "test": "npm run lint && preview && ts-node test",
     "md": "mos",
     "prepublishOnly": "npm run tsc"
   },
