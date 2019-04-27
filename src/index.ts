@@ -1,5 +1,5 @@
 import dint = require('dint')
-import loadJsonFile from 'load-json-file'
+import loadJsonFile = require('load-json-file')
 import path = require('path')
 
 export default async function untouched (pkgDir: string): Promise<false | {}> {
