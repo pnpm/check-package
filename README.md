@@ -1,3 +1,5 @@
+**This package is not used by pnpm from v5**
+
 # @pnpm/check-package
 
 > Checks the integrity of a package
